@@ -1,0 +1,25 @@
+# Assigments
+- program to find area of circle
+- program to convert metre to kilometre
+- program to positive negative integer
+- program to find max of two numbers
+- program to find area of right angle triangle
+- program to swap to numbers
+- program to find area of a triangle
+- program to display first n numbers 
+- program to calculate the factorial of the number
+- display the number in the reverse order
+- program to calculate sum and average of first n numbers 
+- find the sum of digits of a number
+- display the first n multiples of a number
+- Display the first n numbers 
+- Program to calculate factorial of the number
+- program to display the numbers in reverse order 
+- Program to check if a number is prime
+- Display the first n multiples of a number
+- Program to display first  n fibonacci numbers 
+- Write all string functions
+- print all 3 index values in a string
+- print if year is leaf year
+- print maximum of 3 numbers
+- find roots of a quadratic equation
