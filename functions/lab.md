@@ -1,0 +1,9 @@
+- function to check if a number is even or odd
+- Function to find the maximum of two numbers
+- Function with key arguments
+- Function with default arguments
+- Function to find the factorial of a number using recursion
+- function to find the sum of the digits of the number recursively
+- create a function named count vowels that accepts a string and returns the number of vowels in the string
+- write a function greet user that takes a user's name as a parameter and prints a person retting message
+- given a sequence of integers that end with a 00 , print the sequence in reverse order. Don't use lists or other data structures use the force of recursion instead.
