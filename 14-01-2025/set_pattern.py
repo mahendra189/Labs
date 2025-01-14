@@ -11,6 +11,6 @@ print(al)
 # testing
 # hashing = hash()
 # print(hashing)
-
-ob = object()
-print()
+# later topic to explore
+# ob = object()
+# print()
